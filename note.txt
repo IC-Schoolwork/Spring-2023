@@ -1,0 +1,14 @@
+===== NOTE =====
+The code within this repository has been modified by Isaiah 'iugissime' Cordova
+for academic purposes only. Although publicly available for demonstration purposes,
+I do not endorse copying or redistributing this work for any purpose, nor will I
+give permission to do so in the foreseeable future.
+
+Accredited help given/received:
+
+Sources referenced:
+
+Any provided or known code specifications have been provided and detailed below.
+
+===== NOTE =====
+
